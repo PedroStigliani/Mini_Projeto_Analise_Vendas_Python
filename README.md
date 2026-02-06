@@ -28,7 +28,3 @@ Realizar uma análise exploratória de dados de vendas de e-commerce com o objet
 
 ## 📊 Resultados
 O projeto permitiu identificar padrões de vendas, comportamento de consumo e variações ao longo do tempo, apoiando a compreensão do desempenho comercial e fornecendo insights relevantes para decisões estratégicas.
-
-## 📄 Documentação
-A documentação completa do projeto pode ser acessada no arquivo:
-[Miniprojeto_VendasEcommerce.pdf](Miniprojeto_VendasEcommerce.pdf)
